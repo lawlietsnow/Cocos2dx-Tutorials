@@ -1,1 +1,1 @@
-# Cocos2dx-HelloWorld
+# Cocos2dx-Tutorials
